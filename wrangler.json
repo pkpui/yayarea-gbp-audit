@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "yayarea-gbp-audit",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "db858cb0-0c33-46f4-84b7-3c1b37a6297f",
+			"database_name": "yayarea-gbp-audit-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
